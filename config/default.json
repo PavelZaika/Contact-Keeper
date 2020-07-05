@@ -1,3 +1,3 @@
 {
-    "mongoURI": "mongodb+srv://PavelZaika:www27082010@contactkeepermern-hl2nt.mongodb.net/db?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://PavelZaika:@contactkeepermern-hl2nt.mongodb.net/db?retryWrites=true&w=majority"
 }
