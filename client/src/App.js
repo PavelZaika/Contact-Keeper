@@ -4,7 +4,7 @@ import Home from './components/pages/Home';
 import About from './components/pages/About';
 import './App.css';
 import Navbar from './components/layout/Navbar';
-import ContactState from './context/contact/ContextState';
+import ContactState from './context/contact/ContactState';
 
 const App = () => {
   return (
